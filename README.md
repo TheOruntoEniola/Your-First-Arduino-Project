@@ -1,2 +1,2 @@
 # Your-First-Arduino-Project
-The code for the beginner project (Blinking LED) you saw on my page
+The code for the beginner project (Blinking LED) you saw on my page. Enjoy!
